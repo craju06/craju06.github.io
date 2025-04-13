@@ -19,6 +19,6 @@ My research focuses on derivative-free optimization techniques to solve black-bo
 
 *"See it big, and keep it simple."* - **Wilferd Peterson**
 
-<!-- >
+>
 
-[![Flag Counter](https://s01.flagcounter.com/count2/vGw3/bg_FFFFFF/txt_000000/border_D6D6D6/columns_2/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/)](https://s01.flagcounter.com/more/vGw3/) -->
+[![Flag Counter](https://s01.flagcounter.com/count2/vGw3/bg_FFFFFF/txt_000000/border_D6D6D6/columns_2/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/)](https://s01.flagcounter.com/more/vGw3/)
