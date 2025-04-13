@@ -15,7 +15,7 @@ author_profile: true
       <h2 class="archive__item-title"><i class="fa fa-graduation-cap"></i> Ph.D. in Computational Mathematics</h2>
       <span class="education__institution"><i class="fa fa-university"></i> IIT Madras, 2025</span>
     </div>
-    <p><strong>Thesis:</strong> <i>Bayesian Optimization with big-<em>M</em> Penalty for Constrained Problems</i></p>
+    <p><strong>Thesis:</strong> Bayesian Optimization with big-<em>M</em> Penalty for Constrained Problems</p>
     <p><strong>Advisor:</strong> <a href="https://math.iitm.ac.in/innerfaculty.php?fname=Neelesh%20Shankar" target="_blank">Prof. Neelesh S. Upadhye</a></p>
     <!-- <p class="education__description">A detailed exploration of optimization techniques applied to high-dimensional, noisy functions, aiming to improve computational efficiency and performance.</p> -->
   </article>

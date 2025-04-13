@@ -9,7 +9,7 @@ redirect_from:
 
 >
 
-I hold a Doctor of Philosophy (Ph.D.) in Computational Mathematics from Department of Mathematics, Indian Institute of Technology (IIT) Madras, where I specialized in Bayesian Optimization techniques under the supervision of [Prof. Neelesh S. Upadhye](https://math.iitm.ac.in/innerfaculty.php?fname=Neelesh%20Shankar). Prior to that, I earned a Master of Technology (M.Tech.) in Industrial Mathematics and Scientific Computing from IIT Madras and a Master of Science (M.Sc.) in Mathematics from IIT Kharagpur—equipping me with a well-rounded background in optimization, statistical modeling, mathematical analysis, and computational techniques.
+I hold a Doctor of Philosophy (Ph.D.) in Computational Mathematics from Department of Mathematics, Indian Institute of Technology (IIT) Madras, where I specialized in Bayesian Optimization techniques. Prior to that, I earned a Master of Technology (M.Tech.) in Industrial Mathematics and Scientific Computing from IIT Madras and a Master of Science (M.Sc.) in Mathematics from IIT Kharagpur—equipping me with a well-rounded background in optimization, statistical modeling, mathematical analysis, and computational techniques.
 
 >
 
