@@ -12,8 +12,8 @@ author_profile: true
   <!-- Ph.D. Entry -->
   <article class="archive__item education-card">
     <div class="education__item-header">
-      <h2 class="archive__item-title"><i class="fa fa-graduation-cap"></i> Ph.D. in Computational Mathematics</h2>
-      <span class="education__institution"><i class="fa fa-university"></i> IIT Madras, 2025</span>
+      <h2 class="archive__item-title"><i class="fa fa-graduation-cap"></i> Ph.D. in Mathematics</h2>
+      <span class="education__institution"><i class="fa fa-university"></i> IIT Madras, 2019-2024</span>
     </div>
     <p><strong>Thesis:</strong> Bayesian Optimization with big-<em>M</em> Penalty for Constrained Problems</p>
     <p><strong>Advisor:</strong> <a href="https://math.iitm.ac.in/innerfaculty.php?fname=Neelesh%20Shankar" target="_blank">Prof. Neelesh S. Upadhye</a></p>
@@ -24,7 +24,7 @@ author_profile: true
   <article class="archive__item education-card">
     <div class="education__item-header">
       <h2 class="archive__item-title"><i class="fa fa-graduation-cap"></i> M.Tech. in Industrial Mathematics & Scientific Computing</h2>
-      <span class="education__institution"><i class="fa fa-university"></i> IIT Madras, 2020</span>
+      <span class="education__institution"><i class="fa fa-university"></i> IIT Madras, 2018-2019 (Upgraded to PhD)</span>
     </div>
     <!-- <p class="education__description">Focused on advanced computational techniques, mathematical modeling, and their application in industrial contexts, with a strong emphasis on optimization algorithms.</p> -->
   </article>
@@ -33,7 +33,7 @@ author_profile: true
   <article class="archive__item education-card">
     <div class="education__item-header">
       <h2 class="archive__item-title"><i class="fa fa-graduation-cap"></i> M.Sc. in Mathematics</h2>
-      <span class="education__institution"><i class="fa fa-university"></i> IIT Kharagpur, 2018</span>
+      <span class="education__institution"><i class="fa fa-university"></i> IIT Kharagpur, 2016-2018</span>
     </div>
     <!-- <p class="education__description">Specialized in theoretical mathematics, with a focus on algebra, real analysis, and mathematical modeling techniques.</p> -->
   </article>
