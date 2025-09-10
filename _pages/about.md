@@ -9,11 +9,11 @@ redirect_from:
 
 >
 
-I am a Research Associate at the SQC & OR Unit, Indian Statistical Institute, Kolkata. I hold a PhD in Mathematics from the Department of Mathematics, Indian Institute of Technology (IIT) Madras, where I specialised in Bayesian optimisation. I also hold an MTech in Industrial Mathematics and Scientific Computing from IIT Madras and an MSc in Mathematics from IIT Kharagpur. My research addresses derivative-free methods for expensive black-box optimisation, with emphasis on constrained Bayesian optimisation, surrogate modelling, and scalable computational techniques.
+I am a Research Associate at the SQC & OR Unit, Indian Statistical Institute, Kolkata. I hold a PhD in Mathematics from the Department of Mathematics, Indian Institute of Technology (IIT) Madras, where I specialised in Bayesian optimization. I also hold an MTech in Industrial Mathematics and Scientific Computing from IIT Madras and an MSc in Mathematics from IIT Kharagpur. My research addresses derivative-free methods for expensive black-box optimization, with emphasis on constrained Bayesian optimization, surrogate modelling, and scalable computational techniques.
 
 >
 
-The primary aim of my work is to develop robust, adaptive, and sample-efficient optimisation algorithms for engineering and scientific applications. Outside of research, I cycle regularly and follow cricket to maintain a work-life balance. I welcome collaboration on projects that advance both theoretical understanding and practical application.
+The primary aim of my work is to develop robust, adaptive, and sample-efficient optimization algorithms for engineering and scientific applications. Outside of research, I cycle regularly and follow cricket to maintain a work-life balance. I welcome collaboration on projects that advance both theoretical understanding and practical application.
 
 > 
 
