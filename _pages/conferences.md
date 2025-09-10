@@ -25,10 +25,10 @@ and its Applications to Hydrology and Neural Networks</i></p>
   <!-- 2. Conference Entry -->
   <article class="archive__item conference-card">
     <div class="conference__item-header">
-      <h3 class="archive__item-title"><i class="fa fa-microphone"></i> CMStatistics</h3>
+      <h3 class="archive__item-title"><i class="fa fa-microphone"></i> CFE-CMStatistics</h3>
       <span class="conference__institution"><i class="fa fa-map-marker"></i> HTW Berlin, Germany, 2023</span>
     </div>
-    <p><strong>Presentation:</strong> <i>B A novel improvement acquisition function</i></p>
+    <p><strong>Presentation:</strong> <i> A novel improvement acquisition function</i></p>
   </article>
 
   <!-- 3. Conference Entry
