@@ -9,11 +9,11 @@ redirect_from:
 
 >
 
-I hold a Doctor of Philosophy (Ph.D.) in Computational Mathematics from Department of Mathematics, Indian Institute of Technology (IIT) Madras, where I specialized in Bayesian Optimization techniques. Prior to that, I earned a Master of Technology (M.Tech.) in Industrial Mathematics and Scientific Computing from IIT Madras and a Master of Science (M.Sc.) in Mathematics from IIT Kharagpur—equipping me with a well-rounded background in optimization, statistical modeling, mathematical analysis, and computational techniques.
+I am a Research Associate at the SQC & OR Unit, Indian Statistical Institute, Kolkata. I hold a PhD in Mathematics from the Department of Mathematics, Indian Institute of Technology (IIT) Madras, where I specialised in Bayesian optimisation. I also hold an MTech in Industrial Mathematics and Scientific Computing from IIT Madras and an MSc in Mathematics from IIT Kharagpur. My research addresses derivative-free methods for expensive black-box optimisation, with emphasis on constrained Bayesian optimisation, surrogate modelling, and scalable computational techniques.
 
 >
 
-My research focuses on derivative-free optimization techniques to solve black-box optimization problems. I aim to push the boundaries of optimization techniques and contribute to developing more robust, adaptive, and efficient methods. Outside of my research, I enjoy cycling and watching cricket—activities that help me recharge and stay balanced. I am eager to contribute to the academic community and collaborate on projects that make a difference. 
+The primary aim of my work is to develop robust, adaptive, and sample-efficient optimisation algorithms for engineering and scientific applications. Outside of research, I cycle regularly and follow cricket to maintain a work-life balance. I welcome collaboration on projects that advance both theoretical understanding and practical application.
 
 > 
 
@@ -21,4 +21,11 @@ My research focuses on derivative-free optimization techniques to solve black-bo
 
 >
 
+<!--
 [![Flag Counter](https://s01.flagcounter.com/count2/vGw3/bg_FFFFFF/txt_000000/border_D6D6D6/columns_2/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/)](https://s01.flagcounter.com/more/vGw3/)
+-->
+[![Flag Counter](https://s01.flagcounter.com/count2/vGw3/bg_FFFFFF/txt_000000/border_CCCCC/columns_8/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/)](https://s01.flagcounter.com/more/vGw3/)
+
+<!--
+<a href="https://info.flagcounter.com/B5o8"><img src="https://s01.flagcounter.com/count2/B5o8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+-->
